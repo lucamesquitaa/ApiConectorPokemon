@@ -1,3 +1,4 @@
 # ApiConectorPokemon
-API Intermediária para conexão na PokeAPI v2
-link swagger: https://apiconectorpokemon.azurewebsites.net/swagger
+API Intermediária REST para conexão na PokeAPI v2
+
+Fiz utilizando o ASP .NET Core (C#) para buscar alguns dados especificos.
